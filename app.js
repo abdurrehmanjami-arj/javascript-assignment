@@ -33,14 +33,7 @@
 // var streetAddres = +prompt("Enter your Street Number:");
 // var city = prompt("Enter your City Name:");
 // var country = prompt("Enter your Country Name:");
-// console.log(
-//   "Your full address is: " +
-//     streetAddres +
-//     " Main St, " +
-//     city +
-//     " , " +
-//     country
-// );
+console.log("Your full address is: " + streetAddres + " Main St, " + city + " , " + country);
 
 // Assignment No 2
 // var firstName = prompt("Enter your First Name:");
@@ -56,15 +49,7 @@
 // var favoriteColor = prompt("Enter your Favorite Color Name:");
 // var animal = prompt("Enter Animal Name:");
 // var food = prompt("Enter Food Name:");
-// console.log(
-//   "Your favorite things are: " +
-//     favoriteColor +
-//     " " +
-//     animal +
-//     " and " +
-//     food +
-//     "!"
-// );
+console.log("Your favorite things are: " + favoriteColor + " " + animal + " and " + food + "!");
 
 // Assignment No 5 using template literal
 // var quote = prompt("Enter your Quote:");
